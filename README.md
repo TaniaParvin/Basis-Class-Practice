@@ -1,2 +1,4 @@
-Basis-Class-Practice
-====================
+CustomerQueueManagementApp
+==========================
+
+Using user defined Queue.
