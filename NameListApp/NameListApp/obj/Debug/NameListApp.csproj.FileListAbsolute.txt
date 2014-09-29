@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Practice\NameListApp\NameListApp\bin\Debug\NameListApp.exe
+C:\Users\CMT21\Desktop\Practice\NameListApp\NameListApp\bin\Debug\NameListApp.pdb
+C:\Users\CMT21\Desktop\Practice\NameListApp\NameListApp\obj\Debug\NameListApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Practice\NameListApp\NameListApp\obj\Debug\NameListApp.Form1.resources
+C:\Users\CMT21\Desktop\Practice\NameListApp\NameListApp\obj\Debug\NameListApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\NameListApp\NameListApp\obj\Debug\NameListApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\NameListApp\NameListApp\obj\Debug\NameListApp.exe
+C:\Users\CMT21\Desktop\Practice\NameListApp\NameListApp\obj\Debug\NameListApp.pdb

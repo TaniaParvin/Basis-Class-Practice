@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApplication.Form1.resources
+C:\Users\CMT21\Desktop\Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\CMT21\Desktop\Practice\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\CMT21\Desktop\Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\CMT21\Desktop\Practice\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

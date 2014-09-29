@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Practice\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe
+C:\Users\CMT21\Desktop\Practice\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.pdb
+C:\Users\CMT21\Desktop\Practice\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.TicketPurchaseUI.resources
+C:\Users\CMT21\Desktop\Practice\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.exe
+C:\Users\CMT21\Desktop\Practice\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.pdb
+C:\Users\CMT21\Desktop\Practice\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.csprojResolveAssemblyReference.cache

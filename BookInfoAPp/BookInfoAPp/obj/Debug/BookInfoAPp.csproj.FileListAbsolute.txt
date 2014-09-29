@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Practice\BookInfoAPp\BookInfoAPp\obj\Debug\BookInfoAPp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Practice\BookInfoAPp\BookInfoAPp\obj\Debug\BookInfoAPp.Form1.resources
+C:\Users\CMT21\Desktop\Practice\BookInfoAPp\BookInfoAPp\obj\Debug\BookInfoAPp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\BookInfoAPp\BookInfoAPp\obj\Debug\BookInfoAPp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\BookInfoAPp\BookInfoAPp\bin\Debug\BookInfoAPp.exe
+C:\Users\CMT21\Desktop\Practice\BookInfoAPp\BookInfoAPp\bin\Debug\BookInfoAPp.pdb
+C:\Users\CMT21\Desktop\Practice\BookInfoAPp\BookInfoAPp\obj\Debug\BookInfoAPp.exe
+C:\Users\CMT21\Desktop\Practice\BookInfoAPp\BookInfoAPp\obj\Debug\BookInfoAPp.pdb

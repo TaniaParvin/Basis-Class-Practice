@@ -1,0 +1,5 @@
+C:\Users\CMT21\Desktop\Practice\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+C:\Users\CMT21\Desktop\Practice\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+C:\Users\CMT21\Desktop\Practice\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Practice\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+C:\Users\CMT21\Desktop\Practice\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Practice\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe
+C:\Users\CMT21\Desktop\Practice\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.pdb
+C:\Users\CMT21\Desktop\Practice\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.PersonalUI.resources
+C:\Users\CMT21\Desktop\Practice\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.exe
+C:\Users\CMT21\Desktop\Practice\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.pdb
+C:\Users\CMT21\Desktop\Practice\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.csprojResolveAssemblyReference.cache

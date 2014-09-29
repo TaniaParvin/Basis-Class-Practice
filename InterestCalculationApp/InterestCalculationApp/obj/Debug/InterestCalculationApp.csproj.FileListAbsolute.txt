@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Practice\InterestCalculationApp\InterestCalculationApp\bin\Debug\InterestCalculationApp.exe
+C:\Users\CMT21\Desktop\Practice\InterestCalculationApp\InterestCalculationApp\bin\Debug\InterestCalculationApp.pdb
+C:\Users\CMT21\Desktop\Practice\InterestCalculationApp\InterestCalculationApp\obj\Debug\InterestCalculationApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Practice\InterestCalculationApp\InterestCalculationApp\obj\Debug\InterestCalculationApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\InterestCalculationApp\InterestCalculationApp\obj\Debug\InterestCalculationApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\InterestCalculationApp\InterestCalculationApp\obj\Debug\InterestCalculationApp.exe
+C:\Users\CMT21\Desktop\Practice\InterestCalculationApp\InterestCalculationApp\obj\Debug\InterestCalculationApp.pdb
+C:\Users\CMT21\Desktop\Practice\InterestCalculationApp\InterestCalculationApp\obj\Debug\InterestCalculationApp.InterestCalculatorUI.resources

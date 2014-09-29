@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Practice\ConditionalApp\ConditionalApp\obj\Debug\ConditionalApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Practice\ConditionalApp\ConditionalApp\obj\Debug\ConditionalApp.Form1.resources
+C:\Users\CMT21\Desktop\Practice\ConditionalApp\ConditionalApp\obj\Debug\ConditionalApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\ConditionalApp\ConditionalApp\obj\Debug\ConditionalApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\ConditionalApp\ConditionalApp\bin\Debug\ConditionalApp.exe
+C:\Users\CMT21\Desktop\Practice\ConditionalApp\ConditionalApp\bin\Debug\ConditionalApp.pdb
+C:\Users\CMT21\Desktop\Practice\ConditionalApp\ConditionalApp\obj\Debug\ConditionalApp.exe
+C:\Users\CMT21\Desktop\Practice\ConditionalApp\ConditionalApp\obj\Debug\ConditionalApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Practice\BonusCalculationApp\BonusCalculationApp\bin\Debug\BonusCalculationApp.exe
+C:\Users\CMT21\Desktop\Practice\BonusCalculationApp\BonusCalculationApp\bin\Debug\BonusCalculationApp.pdb
+C:\Users\CMT21\Desktop\Practice\BonusCalculationApp\BonusCalculationApp\obj\Debug\BonusCalculationApp.Form1.resources
+C:\Users\CMT21\Desktop\Practice\BonusCalculationApp\BonusCalculationApp\obj\Debug\BonusCalculationApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\BonusCalculationApp\BonusCalculationApp\obj\Debug\BonusCalculationApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\BonusCalculationApp\BonusCalculationApp\obj\Debug\BonusCalculationApp.exe
+C:\Users\CMT21\Desktop\Practice\BonusCalculationApp\BonusCalculationApp\obj\Debug\BonusCalculationApp.pdb
+C:\Users\CMT21\Desktop\Practice\BonusCalculationApp\BonusCalculationApp\obj\Debug\BonusCalculationApp.csprojResolveAssemblyReference.cache

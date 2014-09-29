@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Practice\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.exe
+C:\Users\CMT21\Desktop\Practice\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.pdb
+C:\Users\CMT21\Desktop\Practice\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Practice\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.Form1.resources
+C:\Users\CMT21\Desktop\Practice\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.exe
+C:\Users\CMT21\Desktop\Practice\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.pdb

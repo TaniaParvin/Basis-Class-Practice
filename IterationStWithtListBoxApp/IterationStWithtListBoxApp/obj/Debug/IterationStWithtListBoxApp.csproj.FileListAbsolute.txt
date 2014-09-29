@@ -1,0 +1,7 @@
+C:\Users\CMT21\Desktop\Practice\IterationStWithtListBoxApp\IterationStWithtListBoxApp\bin\Debug\IterationStWithtListBoxApp.exe
+C:\Users\CMT21\Desktop\Practice\IterationStWithtListBoxApp\IterationStWithtListBoxApp\bin\Debug\IterationStWithtListBoxApp.pdb
+C:\Users\CMT21\Desktop\Practice\IterationStWithtListBoxApp\IterationStWithtListBoxApp\obj\Debug\IterationStWithtListBoxApp.Form1.resources
+C:\Users\CMT21\Desktop\Practice\IterationStWithtListBoxApp\IterationStWithtListBoxApp\obj\Debug\IterationStWithtListBoxApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Practice\IterationStWithtListBoxApp\IterationStWithtListBoxApp\obj\Debug\IterationStWithtListBoxApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Practice\IterationStWithtListBoxApp\IterationStWithtListBoxApp\obj\Debug\IterationStWithtListBoxApp.exe
+C:\Users\CMT21\Desktop\Practice\IterationStWithtListBoxApp\IterationStWithtListBoxApp\obj\Debug\IterationStWithtListBoxApp.pdb
