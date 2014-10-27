@@ -1,0 +1,4 @@
+C:\Users\CMT21\Desktop\Basis Training\AdditionApp\AdditionApp\obj\Debug\AdditionApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Basis Training\AdditionApp\AdditionApp\obj\Debug\AdditionApp.AddtionAppUI.resources
+C:\Users\CMT21\Desktop\Basis Training\AdditionApp\AdditionApp\obj\Debug\AdditionApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Basis Training\AdditionApp\AdditionApp\obj\Debug\AdditionApp.csproj.GenerateResource.Cache

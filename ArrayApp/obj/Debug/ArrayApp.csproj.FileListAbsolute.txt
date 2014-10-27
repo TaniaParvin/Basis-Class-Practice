@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Basis Training\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe
+C:\Users\CMT21\Desktop\Basis Training\ArrayApp\ArrayApp\bin\Debug\ArrayApp.pdb
+C:\Users\CMT21\Desktop\Basis Training\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Basis Training\ArrayApp\ArrayApp\obj\Debug\ArrayApp.ArrayAppUI.resources
+C:\Users\CMT21\Desktop\Basis Training\ArrayApp\ArrayApp\obj\Debug\ArrayApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Basis Training\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Basis Training\ArrayApp\ArrayApp\obj\Debug\ArrayApp.exe
+C:\Users\CMT21\Desktop\Basis Training\ArrayApp\ArrayApp\obj\Debug\ArrayApp.pdb
