@@ -1,0 +1,5 @@
+C:\Users\CMT21\Desktop\Basis Training\EscapeChar\EscapeChar\bin\Debug\EscapeChar.exe
+C:\Users\CMT21\Desktop\Basis Training\EscapeChar\EscapeChar\bin\Debug\EscapeChar.pdb
+C:\Users\CMT21\Desktop\Basis Training\EscapeChar\EscapeChar\obj\Debug\EscapeChar.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Basis Training\EscapeChar\EscapeChar\obj\Debug\EscapeChar.exe
+C:\Users\CMT21\Desktop\Basis Training\EscapeChar\EscapeChar\obj\Debug\EscapeChar.pdb
