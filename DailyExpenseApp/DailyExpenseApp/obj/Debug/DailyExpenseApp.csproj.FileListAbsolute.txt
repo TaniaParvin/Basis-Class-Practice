@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Basis Training\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe
+C:\Users\CMT21\Desktop\Basis Training\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.pdb
+C:\Users\CMT21\Desktop\Basis Training\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Basis Training\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.Form1.resources
+C:\Users\CMT21\Desktop\Basis Training\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Basis Training\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Basis Training\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.exe
+C:\Users\CMT21\Desktop\Basis Training\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.pdb
