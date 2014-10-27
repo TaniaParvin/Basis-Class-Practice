@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\Basis Training\ArList\ArList\bin\Debug\ArList.exe
+C:\Users\CMT21\Desktop\Basis Training\ArList\ArList\bin\Debug\ArList.pdb
+C:\Users\CMT21\Desktop\Basis Training\ArList\ArList\obj\Debug\ArList.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\Basis Training\ArList\ArList\obj\Debug\ArList.Form1.resources
+C:\Users\CMT21\Desktop\Basis Training\ArList\ArList\obj\Debug\ArList.Properties.Resources.resources
+C:\Users\CMT21\Desktop\Basis Training\ArList\ArList\obj\Debug\ArList.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\Basis Training\ArList\ArList\obj\Debug\ArList.exe
+C:\Users\CMT21\Desktop\Basis Training\ArList\ArList\obj\Debug\ArList.pdb
