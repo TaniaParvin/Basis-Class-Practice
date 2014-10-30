@@ -1,0 +1,8 @@
+C:\Users\CMT21\Desktop\NewPractice\ExceptionApp\bin\Debug\ExceptionApp.exe
+C:\Users\CMT21\Desktop\NewPractice\ExceptionApp\bin\Debug\ExceptionApp.pdb
+C:\Users\CMT21\Desktop\NewPractice\ExceptionApp\obj\Debug\ExceptionApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\NewPractice\ExceptionApp\obj\Debug\ExceptionApp.Form1.resources
+C:\Users\CMT21\Desktop\NewPractice\ExceptionApp\obj\Debug\ExceptionApp.Properties.Resources.resources
+C:\Users\CMT21\Desktop\NewPractice\ExceptionApp\obj\Debug\ExceptionApp.csproj.GenerateResource.Cache
+C:\Users\CMT21\Desktop\NewPractice\ExceptionApp\obj\Debug\ExceptionApp.exe
+C:\Users\CMT21\Desktop\NewPractice\ExceptionApp\obj\Debug\ExceptionApp.pdb
