@@ -1,0 +1,5 @@
+C:\Users\CMT21\Desktop\NewPractice\InheritanceApp\bin\Debug\InheritanceApp.exe
+C:\Users\CMT21\Desktop\NewPractice\InheritanceApp\bin\Debug\InheritanceApp.pdb
+C:\Users\CMT21\Desktop\NewPractice\InheritanceApp\obj\Debug\InheritanceApp.csprojResolveAssemblyReference.cache
+C:\Users\CMT21\Desktop\NewPractice\InheritanceApp\obj\Debug\InheritanceApp.exe
+C:\Users\CMT21\Desktop\NewPractice\InheritanceApp\obj\Debug\InheritanceApp.pdb
